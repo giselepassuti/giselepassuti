@@ -36,6 +36,6 @@ src="https://img.shields.io/twitch/status/gikapassuti?logo=twitchsx&style=for-th
 
 <div align="center">
   <a href="https://github.com/giselepassuti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giselepassuti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselepassuti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giselepassuti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselepassuti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
