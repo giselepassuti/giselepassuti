@@ -10,6 +10,8 @@ DevRel and QA student
 
 <a href="https://www.twitch.tv/gikapassuti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/gikapassuti?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/87e2e3289b3e4457f9412b613ba7e43b.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 ### Skills
 
 <p align="left">
