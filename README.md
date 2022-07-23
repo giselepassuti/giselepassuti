@@ -7,7 +7,7 @@ DevRel and QA student
 
 * 🌍  I'm based in Paraná, BR
 * 🧠  I'm learning Python Automated Tests
-  <img align="right" width="150" height="150" frameBorder="0" src="https://media.giphy.com/media/RiS7sXS1VpuONNqvOt/giphy.gif" /> 
+  <img align="right" width="150" height="150" style="border-style:none;border-radius:10px" src="https://media.giphy.com/media/RiS7sXS1VpuONNqvOt/giphy.gif" /> 
 
 ##
  
