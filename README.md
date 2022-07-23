@@ -13,7 +13,7 @@ DevRel and QA student
  
  <div style="display: inline_block"<br>
    <a href="https://www.twitch.tv/gikapassuti" target="_blank" rel="noreferrer"><img align="center"
-src="https://img.shields.io/twitch/status/gikapassuti?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+src="https://img.shields.io/twitch/status/gikapassuti?style=social" />
  
 </div>
 
