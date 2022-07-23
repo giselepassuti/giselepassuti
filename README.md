@@ -7,25 +7,35 @@ DevRel and QA student
 
 * 🌍  I'm based in Paraná, BR
 * 🧠  I'm learning Python Automated Tests
+  <img align="right" width="150" height="150" frameBorder="0" src="https://media.giphy.com/media/RiS7sXS1VpuONNqvOt/giphy.gif" /> 
 
-<a href="https://www.twitch.tv/gikapassuti" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/gikapassuti?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+##
+ 
+ <div style="display: inline_block"<br>
+   <a href="https://www.twitch.tv/gikapassuti" target="_blank" rel="noreferrer"><img align="center"
+src="https://img.shields.io/twitch/status/gikapassuti?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+ 
+</div>
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/87e2e3289b3e4457f9412b613ba7e43b.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
+
+
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
-</p>
+<div style="display: inline_block"<br>
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <img align="center"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+  </div>          
+          
 
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/gikapassuti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/giselepassuti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gikapassuti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//gisele-passuti-barbosa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/gikatips" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gikapassuti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/gikapassuti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-
+##
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/giselepassuti"><img src="https://github-readme-stats.vercel.app/api?username=giselepassuti&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="giselepassuti's GitHub stats" /></a>
-
-<a href="https://github.com/giselepassuti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselepassuti&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://github.com/giselepassuti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giselepassuti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselepassuti&layout=compact&langs_count=7&theme=dracula"/>
+</div>
